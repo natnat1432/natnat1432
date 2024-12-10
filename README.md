@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnat1432&label=Profile%20views&color=0e75b6&style=flat" alt="natnat1432" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnat1432" alt="natnat1432" /></a> </p>
-
 - 🔭 I’m currently working on **a Mule Migration to AWS Lambda**
 
 - 🌱 I’m currently learning **Bash, AWS Cloud**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **tiemponathaniel@gmail.com**
 
 - 📄 Know about my experiences [https://nathaniel-tiempo-portfolio.vercel.app/](https://nathaniel-tiempo-portfolio.vercel.app/)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnat1432" alt="natnat1432" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
