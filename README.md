@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natnat1432&label=Profile%20views&color=0e75b6&style=flat" alt="natnat1432" /> </p>
+
 <h1 align="center">Howdy! 👋, I'm Nathaniel C. Tiempo</h1>
 <h3 align="center">An Integrations Engineer from Cebu, Philippines</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natnat1432&label=Profile%20views&color=0e75b6&style=flat" alt="natnat1432" /> </p>
 
 - 🔭 I’m currently working on **a Mule Migration to AWS Lambda**
 
