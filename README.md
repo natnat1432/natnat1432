@@ -4,7 +4,7 @@
 <h1 align="center">Howdy! 👋, I'm Nathaniel C. Tiempo</h1>
 <h3 align="center">An Integrations Engineer from Cebu, Philippines</h3>
 
-- 🔭 I’m currently working on **a Mule Migration to AWS Lambda**
+- 🔭 I’m currently working on **AWS Services and Node.js Backend Systems**
 
 - 🌱 I’m currently learning **Bash, AWS Cloud**
 
