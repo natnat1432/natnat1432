@@ -4,15 +4,15 @@
 <h1 align="center">Howdy! 👋, I'm Nathaniel C. Tiempo</h1>
 <h3 align="center">An Integrations Engineer from Cebu, Philippines</h3>
 
-- 🔭 I’m currently working on **AWS Services and Node.js Backend Systems**
+- 🔭 I’m currently working on **AWS Lambda and Node.js Express Migrations**
 
-- 🌱 I’m currently learning **Bash, AWS Cloud**
+- 🌱 I’m currently learning **Next.Js and Remix Js**
 
-- 👨‍💻 All of my projects are available at [https://nathaniel-tiempo-portfolio.vercel.app/](https://nathaniel-tiempo-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nathaniel-tiempo.vercel.app/](https://nathaniel-tiempo.vercel.app/)
 
 - 📫 How to reach me **tiemponathaniel@gmail.com**
 
-- 📄 Know about my experiences [https://nathaniel-tiempo-portfolio.vercel.app/](https://nathaniel-tiempo-portfolio.vercel.app/)
+- 📄 Know about my experiences [https://nathaniel-tiempo.vercel.app//](https://nathaniel-tiempo.vercel.app//)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnat1432" alt="natnat1432" /></a> </p>
 
